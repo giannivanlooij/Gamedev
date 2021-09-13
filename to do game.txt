@@ -1,15 +1,14 @@
-controller
+controller:
 rotation
 maybe better speed
 
 
-gameplay
-
+gameplay:
 fix spawn
 fix round based
 make shoot particle
 shoot mechanic
 a destory enemy feature
 
-polish
+polish:
 better camera
