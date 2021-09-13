@@ -1,0 +1,15 @@
+controller
+rotation
+maybe better speed
+
+
+gameplay
+
+fix spawn
+fix round based
+make shoot particle
+shoot mechanic
+a destory enemy feature
+
+polish
+better camera
